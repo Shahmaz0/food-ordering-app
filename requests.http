@@ -1,0 +1,7 @@
+POST http://localhost:3000/api/my/user
+Content-Type: application/json
+
+{
+  "auth0Id": "11311231",
+  "email": "shahmaansari8@gmail.com"
+}
